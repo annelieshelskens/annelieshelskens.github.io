@@ -147,7 +147,7 @@ a {
 
 .hero {
     min-height: 90vh;
-    background: url(./background.jpeg);
+    background: url(/assets/background.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
